@@ -8,6 +8,6 @@ The code is for directed graph embedding
 
 ./run_LINE.bash: using LINE to generate embedding
 
-./output: the dir to save the embedding matrix which is word2vec format
+./output: the dir to save the embedding matrix which is word2vec format and to save the recall in and recall out results
 
-../dataset: to save raw and processed dataset, to save the recall in and recall out results
+../dataset: to save raw and processed dataset, 
