@@ -1,0 +1,1 @@
+python __main__.py --input ../../../karate.adjlist --output karate.embeddin
