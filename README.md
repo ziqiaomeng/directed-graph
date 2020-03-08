@@ -19,10 +19,7 @@ Random walk methods are same with my previous implementation and difference is i
 
 The variance is a little big, the following results just as reference
 
-![Recall out in citeseer](./citeseer_recall_out.png)
-![Recall in in citeseer](./citeseer_recall_in.png)
-![Recall out in cora](./cora_recall_out.png)
-![Recall in in cora](./cora_recall_in.png)
-
- 
-
+![Recall out in citeseer](result/citeseer_recall_out.png)
+![Recall in in citeseer](result/citeseer_recall_in.png)
+![Recall out in cora](result/cora_recall_out.png)
+![Recall in in cora](result/cora_recall_in.png)
